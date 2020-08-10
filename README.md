@@ -64,27 +64,6 @@ Extras:
 
 
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#layout)
-
-## ➤ Layout
-
-Um preview sobre o projeto. Caso queira acessar o layout inteiro basta [clicar aqui](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=0%3A1)
-
-
-<div align="center">
-  
-  <img src="web/src/assets/mobile-preview.png" alt="Preview Mobile"></img>
-  <img src="web/src/assets/web-preview.png" alt="Preview Web"></img>
-</div>
-
-
-
-<br/>
-
-
-
-
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#instalao)
 
 ## ➤ Instalação
