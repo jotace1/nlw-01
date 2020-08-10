@@ -24,11 +24,6 @@
 <br />
 
 
-<div align="center">
-  <img src="web/src/assets/web-preview.png" alt="Preview Web"></img>
-</div>
-
-
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#projeto)
 
