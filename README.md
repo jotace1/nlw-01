@@ -8,8 +8,7 @@
 <a href="https://img.shields.io/github/repo-size/StefanyVasc/NLW-1?style=for-the-badge"><img alt="Repo Size" src="https://img.shields.io/github/repo-size/StefanyVasc/NLW-1?style=for-the-badge" height="20"/></a>
 <a href="https://img.shields.io/npm/v/npm?style=for-the-badge"><img alt="Npm Version" src="https://img.shields.io/npm/v/npm?style=for-the-badge" height="20"/></a>
 <a href="https://img.shields.io/github/last-commit/STefanyVasc/nlw-1?style=for-the-badge"><img alt="Commits" src="https://img.shields.io/github/last-commit/STefanyVasc/nlw-1?style=for-the-badge" height="20"/></a>
-<a href="https://img.shields.io/badge/Made%20by-Stefany%20S%C3%A1-blueviolet?style=for-the-badge&logo=appveyor"><img alt="Made By" src="https://img.shields.io/badge/Made%20by-Stefany%20S%C3%A1-blueviolet?style=for-the-badge&logo=appveyor" height="20"/></a>
-	</p>
+
 
 
 <p align="center">
